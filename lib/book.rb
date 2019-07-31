@@ -1,4 +1,5 @@
 class Book
+  
   def initialize(title)
     @book_title = title
   end
